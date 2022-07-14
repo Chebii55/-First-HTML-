@@ -1,0 +1,57 @@
+#p1{color: blueviolet;
+    font-family: "fantasy",Cambria;
+border-style: dotted;
+border-radius: 5px;
+padding:5px;}
+#p2{color: darkmagenta;
+    text-decoration-line: underline ;
+    border-style: dashed;
+    border-color: mediumpurple;
+border-width: 2px;
+padding:5px;}
+.foms{background-image:url("edit1.png");
+    background-repeat: no-repeat;
+      color: hotpink;
+      font-weight: 900;
+      background-size: cover;
+      background-attachment: fixed;
+      background-position: center;
+    text-align: left;
+margin-left: 20px;}
+.ssep{font-size: x-large;
+    padding:5px;}      
+.body{color:white;
+    background-repeat: no-repeat;
+    background-image:url("518924.jpg");
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+    margin: 20px;
+    text-align: left;
+    margin-top: 20px;
+}
+#box1{
+    border-radius: 5px black;
+    width: 250px;
+    height: 250px;
+    font-size: medium;
+    background-color: rgba(138, 120, 123, 0.329);
+    text-align: center;
+    padding: 10px;
+    border: 10px;
+    position: fixed;
+    top:10px;
+    right: 10px;
+}
+#list1{
+    position: relative;
+}
+#list2{
+    position: static;
+}
+.table{
+    border-style: dotted;
+    border: 10px;
+    background-color: rgba(88, 88, 112, 0.349);
+    border-color: aliceblue;
+}
